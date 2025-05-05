@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/xytangme-neodb-mcp-badge.png)](https://mseep.ai/app/xytangme-neodb-mcp)
+
 # NeoDB MCP Server
 
 A Message Control Protocol (MCP) server implementation for interacting with [NeoDB](https://neodb.social/), a social book cataloging service. This server provides tools to fetch user information, search books, and retrieve detailed book information through NeoDB's API.
